@@ -10,6 +10,14 @@ and a `kind` per track); ProtVista maps each `kind` to the right renderer and da
 adapter. Configuration is the "Intent"; the data a provider or file supplies is
 the "Representation". Documentation is licensed CC BY 4.0.
 
+## Full text
+
+Generated from the pages at every docs build, so they can't drift from them:
+
+- [All docs, full text](https://ebi-webcomponents.github.io/protvista/llms-full.txt): every page in one file.
+- [All docs, abridged](https://ebi-webcomponents.github.io/protvista/llms-small.txt): a shorter version, with no blog or webinar pages and no tips.
+- [Config authoring](https://ebi-webcomponents.github.io/protvista/_llms-txt/config-authoring.txt): everything needed to write a viewer config, in one file (tips left out).
+
 ## User guide
 
 - [Tutorial](https://ebi-webcomponents.github.io/protvista/tutorial): the guided end-to-end path — add the component, point it at an accession, add your own track from a CSV, `extends` the default viewer, and theme it.
