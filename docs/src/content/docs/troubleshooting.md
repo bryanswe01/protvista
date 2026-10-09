@@ -2,9 +2,10 @@
 title: Troubleshoot errors
 ---
 
-When something doesn't load, ProtVista tells you in two places: the browser
-console, and a single `protvista-error` event you can listen for. This page
-covers both, plus the most common causes.
+When something doesn't load, ProtVista tells you in three places:
+on screen (an alert panel or a ⚠ badge), in the browser console,
+and through a single `protvista-error` event you can listen for.
+This page covers all three, plus the most common causes.
 
 Start with the messages on screen. If the whole viewer cannot load,
 read the alert panel. If only one track fails, check the ⚠ badge
