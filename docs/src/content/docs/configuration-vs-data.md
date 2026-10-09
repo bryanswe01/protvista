@@ -1,5 +1,6 @@
 ---
 title: Configuration vs data
+description: "defining intent/representation split and explaining how config and csv are represented in the interface."
 ---
 
 ProtVista draws a deliberate line between two things, and knowing which side of the line you're on saves a lot of confusion when you bring your own data.
